@@ -6,6 +6,8 @@ I study Informatics and Data Science at the University of Washington (expected 2
 
 ## Selected work
 
+- **[ShopMind AI](https://github.com/jiuxin77/ShopMind-AI) — independent project:** Six-module recommendation demo covering analytics, multi-source retrieval, ranking experiments, rule-based shopping assistance and offline evaluation. [Try the live demo](https://dashboardpy-atdyds5ymth55g6m623f5z.streamlit.app/).
+
 - **Tmall Campus AI project:** Complex Excel timetable parsing, sheet selection, merged-cell expansion, model integration, and regression testing in a team practical project.
 - **CEC GienTech automation:** Python browser workflows for recurring regulatory-information queries and structured Excel output.
 - **Moore Threads experience:** E-commerce user analysis with SQL and Python-based LLM evaluation.
@@ -29,3 +31,4 @@ Milo is a voice-based shopping prototype for older adults, combining familiar sp
 [Project story](https://devpost.com/software/milo-shopping-that-understands-older-adults) · [Demo](https://www.youtube.com/watch?v=4YVUp6x_Y4Q) · [Team repository](https://github.com/svedison/Dubhacks-26-Team-Meditation)
 
 Milo was created collaboratively. The responsibilities above describe my contribution; the full product and its outcomes belong to the team.
+
